@@ -1,0 +1,609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sample",
+				"sampleIndex"
+			],
+			[
+				"usd",
+				"usdIndex"
+			],
+			[
+				"categorizeb",
+				"categorizeByFilename"
+			],
+			[
+				"A",
+				"Antibodies"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"patternSou",
+				"patternSourceDelete"
+			],
+			[
+				"range",
+				"rangeIndex"
+			],
+			[
+				"spec",
+				"specsIndex"
+			],
+			[
+				"ran",
+				"rangeIndex"
+			],
+			[
+				"sensi",
+				"sensitivityIndex"
+			],
+			[
+				"appli",
+				"applicationsIndex"
+			],
+			[
+				"acces",
+				"accessionIndex"
+			],
+			[
+				"pattern",
+				"patternSourceTarget"
+			],
+			[
+				"descrip",
+				"descriptionIndex"
+			],
+			[
+				"target",
+				"targetIndex"
+			],
+			[
+				"categorizrW",
+				"categorizeWholeMatrix"
+			],
+			[
+				"clonali",
+				"clonalityIndex"
+			],
+			[
+				"conj",
+				"conjIndex"
+			],
+			[
+				"re",
+				"replacementvalue"
+			],
+			[
+				"url",
+				"urlIndex"
+			],
+			[
+				"cate",
+				"categoryIndex"
+			],
+			[
+				"species",
+				"speciesIndex"
+			],
+			[
+				"patt",
+				"patternSourceTarget"
+			],
+			[
+				"quan",
+				"quantityIndex"
+			],
+			[
+				"replace",
+				"replacementValue"
+			],
+			[
+				"set",
+				"set_trace"
+			],
+			[
+				"reactivity",
+				"reactivityIndex"
+			],
+			[
+				"host",
+				"hostIndex"
+			],
+			[
+				"price",
+				"priceIndex"
+			],
+			[
+				"catname",
+				"catnameIndex"
+			],
+			[
+				"type",
+				"typeIndex"
+			],
+			[
+				"categorizeByMat",
+				"categorizeByMatrixTitles"
+			],
+			[
+				"name",
+				"nameIndex"
+			],
+			[
+				"catna",
+				"catnameIndex"
+			],
+			[
+				"Biote",
+				"BiotechSupport"
+			],
+			[
+				"ignore",
+				"ignoreSheets"
+			],
+			[
+				"pubme",
+				"pubmedIndex"
+			],
+			[
+				"ca",
+				"catnameindex"
+			],
+			[
+				"category",
+				"categoryindex"
+			],
+			[
+				"targe",
+				"targetIndex"
+			],
+			[
+				"swiss",
+				"swissIndex"
+			],
+			[
+				"fi",
+				"file"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "nump",
+		"selected_items":
+		[
+			[
+				"nump",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"git chan",
+				"Git: Change Branch"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git quick c",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git add fi",
+				"Git: Add Current File"
+			],
+			[
+				"git quick commit fi",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git push cu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git add fil",
+				"Git: Add Current File"
+			],
+			[
+				"git quick ",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git add f",
+				"Git: Add Current File"
+			],
+			[
+				"git ch",
+				"Git: Change Branch"
+			],
+			[
+				"git c",
+				"Git: Change Branch"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"git add cu",
+				"Git: Add Current File"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git quick commit fil",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"git quick commit ",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git quickcomm",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git psuh cu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git psh",
+				"Git: Push Current Branch"
+			],
+			[
+				"git quick fi",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git pull ",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git push cur",
+				"Git: Push Current Branch"
+			],
+			[
+				"git quick co",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git qui	",
+				"Git: Quick Commit"
+			],
+			[
+				"got add",
+				"Package Control: Add Channel"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git ame",
+				"Git: Amend Commit"
+			],
+			[
+				"git push cu	",
+				"Git: Push Current Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git push c",
+				"Git: Push Current Branch"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"git chec",
+				"Git: Change Branch"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"git com	",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Push"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/kdhavala/Desktop/Rosalind-master"
+	],
+	"file_history":
+	[
+		"/C/Users/kdhavala/Desktop/Rosalind-master/rosalind_ini2.txt",
+		"/C/Users/kdhavala/Desktop/Rosalind-master/Move_Files.sh",
+		"/C/Users/kdhavala/Desktop/Rosalind-master/rosalind_intro_002.py",
+		"/C/Users/kdhavala/Documents/GitHub/BCParser/Skw/Matrices.py",
+		"/C/Users/kdhavala/Documents/GitHub/BCParser/Skw/Customers.py",
+		"/C/Users/kdhavala/Documents/GitHub/BCParser/Skw/ItemController.py",
+		"/C/Users/kdhavala/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/kdhavala/Desktop/Tab_Settings.json",
+		"/C/Users/kdhavala/Documents/GitHub/BCParser/Skw/FileController.py",
+		"/C/Users/kdhavala/Documents/GitHub/BCParser/Skw/abner.py",
+		"/C/cygwin64/bin/ssh-host-config",
+		"/C/cygwin64/bin/ssh-copy-id",
+		"/C/cygwin64/home/kdhavala/Code/BCParser/Skw/Customers.py",
+		"/C/cygwin64/home/kdhavala/Code/BCParser/Skw/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/C/cygwin64/home/kdhavala/Code/BCParser/.gitignore",
+		"/C/cygwin64/home/kdhavala/Code/BCParser/Skw/FileController.py",
+		"/C/cygwin64/home/kdhavala/Code/BCParser/Skw/foldercontrollertest.py",
+		"/C/cygwin64/etc/defaults/etc/ssh_config",
+		"/C/Program Files/Git/etc/ssh/ssh_config",
+		"/C/cygwin64/home/kdhavala/scripts/parseralias.sh",
+		"/C/cygwin64/home/kdhavala/.bashrc",
+		"/C/cygwin64/etc/defaults/etc/bash.bashrc",
+		"/C/cygwin64/home/kdhavala/Code/BCParser/Skw/Constants.py",
+		"/C/cygwin64/home/kdhavala/Code/BCParser/Skw/Methods.py",
+		"/C/cygwin64/home/kdhavala/Code/BCParser/Skw/userid.py",
+		"/C/cygwin64/etc/skel/.bashrc",
+		"/C/Python27/Lib/site-packages/pg.py",
+		"/C/cygwin64/home/kdhavala/Code/BCParser/Skw/import_check",
+		"/C/Python27/Lib/site-packages/setuptools/package_index.py",
+		"/C/cygwin64/home/kdhavala/Code/BCParser/userid.py",
+		"/C/cygwin64/home/kdhavala/Dropbox",
+		"/C/cygwin64/home/kdhavala/.gitconfig",
+		"/C/cygwin64/home/kdhavala/.bash_profile",
+		"/C/cygwin64/home/kdhavala/.ssh/id_rsa.pub"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"done",
+			"mp3",
+			"('(SensoLyte(?:®|&#174;) [\\w\\-]+)'",
+			"('(SensoLyte(?:®|&#174;) [\\w\\-]+)', nameIndex, conjugateIndex, {\"secondPattern\":'\\*(Fluorimetric)\\*', \"secondIndex\":nameIndex})",
+			"('(SensoLyte(?:®|&#174;) [\\w\\-]+)', nameIndex, conjugateIndex, {\"secondPattern\":'\\*(Fluorimetric)\\*', \"secondIndex\":nameIndex}),('\\d+ assays \\(96 - well plate\\)' casIndex, {\"delete\":True}),",
+			"('(SensoLyte(?:®|&#174;) [\\w\\-]+)', nameIndex, conjugateIndex, {\"secondPattern\":'\\*(Fluorimetric)\\*', \"secondIndex\":nameIndex}),('\\d+ assays \\(96 - well plate\\)' casIndex, {\"delete\":True}),\n",
+			"('(SensoLyte(?:®|&#174;) [\\w\\-]+)', nameIndex, conjugateIndex, {\"secondPattern\":'\\*(Fluorimetric)\\*', \"secondIndex\":nameIndex}),('\\d+ assays \\(96 - well plate\\)' casIndex, {\"delete\":True}),\nThe following documentation can be found in the Matrices.py file with the new methods:",
+			"overrideop",
+			"overrideoption",
+			"    \n",
+			"zymo",
+			"ecm",
+			"two colum",
+			"two-colum",
+			"two-col",
+			"' '",
+			"re.sub",
+			"replacementvalue",
+			"fill",
+			"mybiosource",
+			"jpt",
+			"delete",
+			"replace",
+			"$'])",
+			"jena",
+			"100552",
+			"103411",
+			"101103",
+			"10110",
+			":self",
+			"bio",
+			"pdb.set",
+			"pdb.set_trace()",
+			"pdb",
+			"<<<<",
+			"pg",
+			"userid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"input"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "Rosaling_Personal.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Skw\\abner.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
